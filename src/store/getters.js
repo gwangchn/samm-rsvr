@@ -1,0 +1,10 @@
+export const rPanelwidth = state => state.rPanelwidth;
+export const initWidth = state => state.initWidth;
+export const sinitWidth = state => state.sinitWidth;
+export const menuWidth = state => state.menuWidth;
+export const showFlag = state => state.showFlag;
+export const Hidetimebar = state => state.Hidetimebar;
+export const menuHide = state => state.menuHide;
+export const commonTitle = state => state.commonTitle;
+export const titleTime = state => state.titleTime;
+export const hidetitleTime = state => state.hidetitleTime;
